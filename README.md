@@ -1,3 +1,8 @@
+## About this forked repository
+
+forked from [https://github.com/Roverr/rtsp-stream](https://github.com/Roverr/rtsp-stream).
+To build this repository on Jetson environment, some updates were added to Dockerfile.
+
 # <img src="./docs/rtsp-stream.png"/>
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/Roverr/rtsp-stream)](https://goreportcard.com/report/github.com/Roverr/rtsp-stream)
